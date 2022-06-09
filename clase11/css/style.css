@@ -1,0 +1,148 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    width: 1035px;
+    font-family: 'Roboto', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.barra1{
+    background-color: #1CD1B0;
+    height: 38px;
+
+}
+.letrab1{
+    font-size: 10px;
+    font-weight: 400;
+    display: inline-block;
+    margin: 15px;
+    color: black;
+}
+.barra2{
+   background-color: #00669F;
+   height: 101px;
+}
+.letrab2{
+    font-weight: 400;
+    font-size: 40px;
+    display: inline-block;
+    margin: 28px 0px 26px 28px;
+}
+.contenedortarjetas{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 154px;
+    margin-bottom: 151px;
+}
+.tarjetas{
+    position: relative;
+    width: 300px;
+    height: 529px;
+    background-color: #F3F3F3;
+       
+}
+.fondo1{
+    display: inline-block;
+    position: absolute; 
+    width: 300px;
+    height: 193px;
+}
+.fondo2{
+    display: inline-block;
+    position: absolute; 
+    width: 300px;
+    height: 193px;
+}
+.letrabat{
+    
+    display: inline-block;
+    position: absolute;
+    color: black;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-top: 260px;
+    margin-left: 89px;
+    margin-right: 89px;
+
+}
+.letrabat2{
+    display: inline;
+    position: absolute;
+    overflow: hidden;
+    Line-height: 18.75px;
+    width: 267px;
+    height: 113px;
+    font-size: 16px;
+    margin-left: 16px;
+    margin-top: 310px;
+}
+.letrahar{
+    display: inline-block;
+    position: absolute;
+    color: black;
+    font-size: 30px;
+    margin-top: 267px;
+    margin-left: 65px;
+
+
+}
+.letrahar2{
+    display: inline-block;
+    position: absolute;
+    overflow: hidden;
+    Line-height: 18.75px;
+    width: 267px;
+    height: 113px;
+    font-size: 16px;
+    margin-left: 16px;
+    margin-top: 310px;
+}
+.batman{
+    display: inline-block;
+    position: absolute;
+    width: 118px;
+    height: 118px;
+    border-radius: 60px;
+    margin-top: 128px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.harley{
+    display: inline-block;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-top: 128px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.corazon{
+    position: absolute;
+    width: 30px;
+    height: 26.25px;
+    margin-top: 15.88px;
+    margin-left: 21px;
+    margin-right: 249px;
+}
+.letrafoot{
+    background-color: #00669F;
+    color: white;
+    font-size: 16px;
+    height: 51px;
+    padding: 16px;
+}
+.boton{
+    display: inline;
+    position: absolute;
+    font-size: 15px;
+    background-color: #00669F;
+    color: white;
+    line-height: 40px;
+    width: 128.78px;
+    height: 48.52px;
+    text-align: center;
+    margin-bottom: 18.48px;
+    margin-left: 85px;
+    margin-top: 462px;
+}
