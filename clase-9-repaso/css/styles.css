@@ -1,0 +1,342 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;@500&display=swap');
+@import url('https://use.fontawesome.com/releases/v6.1.1/css/all.css');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.barrasup{
+    background-color: black;
+    height: 20px;
+}
+.letrasup{
+    color: white;
+    font-size: 10px;
+    font-weight: 400;
+   
+}
+.letrasupp{
+    color: white;
+    font-size: 10px;
+    font-weight: 400;
+    text-align: right;
+    
+   
+}
+.barra2{
+    background-color: #F0A83E;
+    height: 62px;
+
+    
+}
+.name{
+    font-weight: 700;
+    font-size: 20px;
+}
+.name2{
+    font-weight: 700;
+    color: white;
+    font-size: 20px;
+}
+.logo{
+    line-height: 50px;
+   
+}
+.letrasupbarra2{
+    color: white;
+    text-align: right;
+    
+}
+.bowl img{
+    background-size: cover;
+}
+div.bowlInfo img{
+    width: 100%;
+    height: 409px;
+    
+}
+.letrabowl{
+    position: absolute;
+    font-size: 30px;
+    text-align: center;
+    line-height: 55px;
+    background-color: white;
+    width: 365px;
+    height: 64px;
+    top: 238px;
+    left: 1048px;
+}
+.letrabowl2{
+    position: absolute;
+    font-size: 16px;
+    top: 320px;
+    left: 1140px;
+    
+}
+.letrabowl3{
+    position: absolute;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    line-height: 48px;
+    text-transform: uppercase;
+    background-color: #F0A83E;
+    width: 141px;
+    height: 49px;
+    top: 349px;
+    left: 1170px;
+}
+.huellita{
+    color:  #F0A83E;
+    width: 67px;
+    height: 71px;
+    Top: 510px;
+}
+.letramain{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #3C2313;
+}
+.letramain2{
+    font-size: 15px;
+    text-align: center;
+    color:  #666666;
+}
+.productos_destacados{
+    text-align: center;
+   
+}
+.p1{
+    width: 400px;
+    height: 600px;
+    margin: 20px;
+    
+}
+.p2{
+    width: 400px;
+    height: 600px;
+    margin: 20px;
+  
+}
+.p3{
+    width: 400px;
+    height: 600px;
+    margin: 20px;
+    
+}
+span.productos_destacados{
+  background-position: center;
+}
+
+.letrasp1{
+    background-color:  #FBFAF6;
+    font-weight: bold;
+    text-align: center;
+    font-weight: 500;
+    color: #3C2313;
+    font-size: 20px;
+    position: absolute;
+    top: 1280px;
+    left: 220.68px;
+}
+.letrasp2{
+    background-color:  #FBFAF6;
+    font-weight: bold;
+    text-align: center;
+    font-weight: 500;
+    color: #3C2313;
+    font-size: 20px;
+    position: absolute;
+    top: 1280px;
+    left: 660.68px;
+}
+.letrasp3{
+    background-color:  #FBFAF6;
+    font-weight: bold;
+    text-align: center;
+    font-weight: 500;
+    color: #3C2313;
+    font-size: 20px;
+    position: absolute;
+    top: 1280px;
+    left: 1140.68px;
+}
+.precio{
+    font-weight: bold;
+    color: #F0A83E;
+}
+.cont{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #3C2313;
+}
+div.ddatos{
+    justify-content: center;
+}
+.datos{
+    background-color: #3C2313;
+    color: white;
+    width:390px;
+    height: 40px;
+    text-align: left;
+    font-size: 12px;
+    line-height: 40px;
+    border-radius: 15px;
+    
+
+}
+#botones{
+    display: flex;
+    justify-content: center;
+}
+.boton1{
+    background-color: #8A8787;
+    text-align: center;
+    color: white;
+    margin: 10px;
+    font-size: 16px;
+    width: 120px;
+    height: 34px;
+    line-height: 32px;
+    border-radius: 15px;
+}
+.boton2{
+    background-color: #F0A83E;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    font-size: 16px;
+    width: 120px;
+    height: 34px;
+    line-height: 32px;
+    border-radius: 15px;
+}
+.barrainf1{
+    background-color: #F0A83E;
+    height: 60px;
+     display: flex;
+    justify-content: center;
+}
+.letrabinf1{
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    line-height: 52px;
+}
+.letrabinf2{
+    background-color: white;
+    color:  #A0A0A0;
+    font-size: 9px;
+    width: 271px;
+    height: 40px;
+    border-radius: 15px;
+    margin: 10px;
+    line-height: 32px;
+    
+}
+.letrabinf3{
+    background-color: #3C2313;
+    text-align: center;
+    color: white;
+    font-size: 9px;
+    width: 70px;
+    height: 34px;
+    border-radius: 15px;
+    margin: 10px;
+    line-height: 32px;
+}
+.barrainf2{
+
+    height: 281px;
+    background-color: #3C2313;
+
+}
+
+.ico1{
+    position: absolute;
+    top: 1885px;
+    left: 70px;
+    
+}
+.ico2{
+    position: absolute;
+    left: 70px;
+    top: 1971px;
+}
+.ico3{
+    position: absolute;
+    left: 70px;
+    top: 2057px;
+}
+.letraloca1{
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+}
+.letraloca11{
+    font-size: 10px;
+    color: #8A8787;
+    font-weight: 700;
+}
+.loca{
+    position: absolute;
+    top: 1885px;
+    left: 161px;
+}
+.letratel1{
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+}
+.letratel11{
+    font-size: 10px;
+    color: #8A8787;
+    font-weight: 700;
+}
+.tel{
+    position: absolute;
+    left: 161px;
+    top: 1971px;
+}
+.letraemail1{ 
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+}
+.letraemail11{
+    font-size: 10px;
+    color: #8A8787;
+    font-weight: 700;
+}
+.email{
+    position: absolute;
+    left: 161px;
+    top: 2057px;
+}
+.l1{
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+.l2{
+    font-weight: 700;
+    color: #F0A83E;
+    font-size: 20px;
+
+}
+.logo2{
+    position: absolute;
+    top: 1990px; 
+    left: 1250px;
+}
+.barrainf3{
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+
